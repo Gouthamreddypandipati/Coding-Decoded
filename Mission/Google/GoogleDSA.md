@@ -8,7 +8,7 @@ These questions are intended for those who are preparing for Google.
 | 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | DONE | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | DONE | 	Array
 | 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | DONE | 	Array
-| 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
+| 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | DONE | 	Array
 | 6 |	My Calendar I	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
 | 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
 | 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | PENDING | 	Array
